@@ -1,0 +1,114 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/thorsmork2.jpg"
+  bg_overlay : true
+  title : "International Data Analysis <br/> & Indicator Design"
+  content : "Data-driven indicator and composite indicator solutions for international policy-making"
+  button:
+    enable : true
+    label : "Find out more"
+    link : "project"
+
+############################# About #################################
+about:
+  enable : true
+  title : "[About](/about)"
+  description : "High-quality data analysis is at the core of evidence-based policy making."
+  content : "Data has never been more abundant and readily available, and this presents huge opportunities
+  for policy making. But translating data into relevant information requires skill and experience. At the same
+  time, policy making is intertwined with complex multidimensional concepts, such as sustainable development,
+  innovation, connectivity, and many others. BlueFox offers data-driven indicator solutions, built on
+  years of experience and collaborations in composite indicator development, international data analysis, 
+  policy making and statistics. [Read more](/about)"
+  image : "images/data_tablet.jpg"
+  
+  button:
+    enable : true
+    label : "More"
+    link : "project"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : true
+  bg_image : "images/bluefox_sketch.jpg"
+  title : "What is BlueFox?"
+  content : "BlueFox is a consultancy service launched by Dr. William Becker. William has a PhD
+  in mechanical engineering, machine learning and statistics, and has worked for the last decade
+  on many high-level projects linked to indicators and policy. <br/> <br/> Specific areas of expertise and research include
+  composite indicators, sustainable development, international connectivity, performance-based budgeting
+  uncertainty/sensitivity analysis, and many more. William has worked with the European Commission,
+  the UN, and many other international organisations, and is considered a leading expert in composite indicators.<br/><br/>"
+  
+  button:
+    enable : true
+    label : "More "
+    link : "project"
+
+
+############################# Service ############################
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : false
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "We design delightful digital experiences."
+  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  button:
+    enable : true
+    label : "Tell Us Your Story"
+    link : "contact"
+
+############################# Funfacts ###############################
+funfacts:
+  enable : false
+  title : "Fun Facts About Us"
+  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
+          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Cups Of Coffee"
+      count : "99"
+      
+    # funfacts item loop
+    - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Article Written"
+      count : "45"
+      
+    # funfacts item loop
+    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Projects Completed"
+      count : "125"
+      
+    # funfacts item loop
+    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Combined Projects"
+      count : "200"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Raymond Roy"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Randi Renin"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Rose Rio"
+      image : "images/clients/avater-3.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
