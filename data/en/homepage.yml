@@ -4,7 +4,8 @@ banner:
   bg_image : "images/thorsmork2.jpg"
   bg_overlay : true
   title : "International Data Analysis <br/> & Indicator Design"
-  content : "Data-driven indicator and composite indicator solutions for international policy-making"
+  content : "Data-driven indicator and composite indicator solutions for international policy-making <br/>
+  (WEBSITE UNDER CONSTRUCTION)"
   button:
     enable : true
     label : "Find out more"
@@ -20,7 +21,7 @@ about:
   time, policy making is intertwined with complex multidimensional concepts, such as sustainable development,
   innovation, connectivity, and many others. BlueFox offers data-driven indicator solutions, built on
   years of experience and collaborations in composite indicator development, international data analysis, 
-  policy making and statistics. [Read more](/about)"
+  policy making and statistics." #[Read more](/about)"
   image : "images/data_tablet.jpg"
   
   button:
@@ -39,12 +40,14 @@ portfolio:
   on many high-level projects linked to indicators and policy. <br/> <br/> Specific areas of expertise and research include
   composite indicators, sustainable development, international connectivity, performance-based budgeting
   uncertainty/sensitivity analysis, and many more. William has worked with the European Commission,
-  the UN, and many other international organisations, and is considered a leading expert in composite indicators.<br/><br/>"
+  the UN, and many other international organisations, and is considered a leading expert in composite indicators.<br/><br/>
+  [LinkedIn](https://www.linkedin.com/in/webecker/)<br/> <br/>
+  [ResearchGate](https://www.researchgate.net/profile/William_Becker4)"
   
-  button:
-    enable : true
-    label : "More "
-    link : "project"
+  #button:
+    #enable : true
+    #label : "More "
+    #link : "project"
 
 
 ############################# Service ############################
