@@ -7,7 +7,7 @@ banner:
   content : "Data-driven indicator and composite indicator solutions for international policy-making <br/>
   (WEBSITE UNDER CONSTRUCTION)"
   button:
-    enable : true
+    enable : false
     label : "Find out more"
     link : "project"
 
