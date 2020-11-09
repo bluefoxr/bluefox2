@@ -1,0 +1,40 @@
+---
+author: Will Becker
+bg_image: images/featue-bg.jpg
+categories:
+- General
+date: "2020-11-09T10:00:00+06:00"
+description: In the beginning...
+draft: false
+image: images/blog/genesis.jpg
+tags:
+- Meta
+title: Genesis
+type: post
+---
+
+> In the beginning I created a website. And I saw that it was OK (but needed a lot of improvement, let's be honest.)
+
+I have finally been able to launch a website for Bluefox. Bluefox, as you can read elsewhere on this site, is just a pseudonym for the consultancy services that I offer. But do I really need a website for that? Well, one reason is that Bluefox may one day grow beyond just myself. The other reason was simply a curiosity about building websites.
+
+The route I took to building this website was through R's [Blogdown package](https://bookdown.org/yihui/blogdown/). Blogdown is a fantastic package which lets you build fairly professional-looking websites in the [Hugo](https://gohugo.io/) framework, but from the comfort and safety of R Studio. So, for data scientists like myself, it is the perfect way to avoid getting messy with CSS and Javascript, but still have a bit of control.
+
+The website is hosted on [Netlify](https://www.netlify.com/) via github - you can find the source code [here](https://github.com/bluefoxr/bluefox2). I'm still learning about how to use Blogdown and Hugo, so the source code is quite messy and is my attempt to adapt the theme to my own uses. Still, the results are quite nice and it is all based on free open-source software. Given that I was quite pleased with the result, here are the basic steps to achieving this (which of course you can also find elsewhere).
+
+**Steps for building a website**
+
+1. Install R Studio and the Blogdown package.</br>
+2. Go to [Hugo](https://gohugo.io/) and find yourself a nice theme. This website is based on the [Airspace theme](https://themes.gohugo.io/airspace-hugo/).
+3. Go back to R Studio and go to New Project -> New Directory -> Website using Blogdown. Enter the theme link in the "theme" field - this should download the theme and build the example site for you. Now you have a functioning website on your local machine - obviously not on the web yet.
+4. Build the website. Yes, this is the hard bit! I spent a lot of time puzzling over the directory structure - really the best way is just to open all the files and have a look at them. Gradually, it makes sense, I promise. Also read the Blogdown book and Hugo documentation as necessary.
+5. OK, so now you have a website, but how to get it online? Well, [Netlify](https://www.netlify.com/) is a very handy resource which will host your site for you, has Hugo built in, and automatically links to your Github account. So:
+   (a) Install Git on your computer.
+   (b) Create a Github account if you don't have one.
+   (c) Make a Github repository for your website
+   (d) Get R Studio, Git and Github all linked up (follow this [very helpful guide](https://happygitwithr.com/) for this one).
+   (e) Commit all your website changes and push to Github.
+6. Finally, go to Netlify and make an account. Link to your website repository..... and..... voila! Hopefully. You can also use your own custom domain name, if you have one. Or create one through Netlify.
+
+Ok so there's a lot in there and you will probably have to read the Blogdown book, the Happy Git With R book, and some Hugo/Netlify documentation to get it up and running, and suffer a bit. But it is a great learning experience!
+
+What I really liked about it is it shows again the incredible availability of high-quality free resources if you are prepared to look around for them. Hurray once again for the internet!

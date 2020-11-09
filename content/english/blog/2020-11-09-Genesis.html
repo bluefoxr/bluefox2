@@ -1,0 +1,43 @@
+---
+author: Will Becker
+bg_image: images/featue-bg.jpg
+categories:
+- General
+date: "2020-11-09T10:00:00+06:00"
+description: In the beginning...
+draft: false
+image: images/blog/genesis.jpg
+tags:
+- Meta
+title: Genesis
+type: post
+---
+
+<link href="/rmarkdown-libs/anchor-sections/anchor-sections.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/anchor-sections/anchor-sections.js"></script>
+
+
+<blockquote>
+<p>In the beginning I created a website. And I saw that it was OK (but needed a lot of improvement, let’s be honest.)</p>
+</blockquote>
+<p>I have finally been able to launch a website for Bluefox. Bluefox, as you can read elsewhere on this site, is just a pseudonym for the consultancy services that I offer. But do I really need a website for that? Well, one reason is that Bluefox may one day grow beyond just myself. The other reason was simply a curiosity about building websites.</p>
+<p>The route I took to building this website was through R’s <a href="https://bookdown.org/yihui/blogdown/">Blogdown package</a>. Blogdown is a fantastic package which lets you build fairly professional-looking websites in the <a href="https://gohugo.io/">Hugo</a> framework, but from the comfort and safety of R Studio. So, for data scientists like myself, it is the perfect way to avoid getting messy with CSS and Javascript, but still have a bit of control.</p>
+<p>The website is hosted on <a href="https://www.netlify.com/">Netlify</a> via github - you can find the source code <a href="https://github.com/bluefoxr/bluefox2">here</a>. I’m still learning about how to use Blogdown and Hugo, so the source code is quite messy and is my attempt to adapt the theme to my own uses. Still, the results are quite nice and it is all based on free open-source software. Given that I was quite pleased with the result, here are the basic steps to achieving this (which of course you can also find elsewhere).</p>
+<p><strong>Steps for building a website</strong></p>
+<ol style="list-style-type: decimal">
+<li>Install R Studio and the Blogdown package.</br></li>
+<li>Go to <a href="https://gohugo.io/">Hugo</a> and find yourself a nice theme. This website is based on the <a href="https://themes.gohugo.io/airspace-hugo/">Airspace theme</a>.</li>
+<li>Go back to R Studio and go to New Project -&gt; New Directory -&gt; Website using Blogdown. Enter the theme link in the “theme” field - this should download the theme and build the example site for you. Now you have a functioning website on your local machine - obviously not on the web yet.</li>
+<li>Build the website. Yes, this is the hard bit! I spent a lot of time puzzling over the directory structure - really the best way is just to open all the files and have a look at them. Gradually, it makes sense, I promise. Also read the Blogdown book and Hugo documentation as necessary.</li>
+<li>OK, so now you have a website, but how to get it online? Well, <a href="https://www.netlify.com/">Netlify</a> is a very handy resource which will host your site for you, has Hugo built in, and automatically links to your Github account. So:
+<ol style="list-style-type: lower-alpha">
+<li>Install Git on your computer.</li>
+<li>Create a Github account if you don’t have one.</li>
+<li>Make a Github repository for your website</li>
+<li>Get R Studio, Git and Github all linked up (follow this <a href="https://happygitwithr.com/">very helpful guide</a> for this one).</li>
+<li>Commit all your website changes and push to Github.</li>
+</ol></li>
+<li>Finally, go to Netlify and make an account. Link to your website repository….. and….. voila! Hopefully. You can also use your own custom domain name, if you have one. Or create one through Netlify.</li>
+</ol>
+<p>Ok so there’s a lot in there and you will probably have to read the Blogdown book, the Happy Git With R book, and some Hugo/Netlify documentation to get it up and running, and suffer a bit. But it is a great learning experience!</p>
+<p>What I really liked about it is it shows again the incredible availability of high-quality free resources if you are prepared to look around for them. Hurray once again for the internet!</p>
