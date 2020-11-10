@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/thorsmork2.jpg"
+  bg_image : "images/thorsmork3.jpg"
   bg_overlay : true
   title : "International Data Analysis <br/> & Indicator Design"
   content : "Data-driven indicator and composite indicator solutions for international policy-making <br/>
