@@ -1,0 +1,31 @@
+---
+author: Will Becker
+bg_image: images/featue-bg.jpg
+categories:
+- Indicators
+date: "2020-11-10"
+description: The main outputs from our Asia-Europe Sustainable Connectivity Conference
+draft: false
+image: images/blog/AESCON_takeaways.png
+tags:
+- Connectivity
+- Europe and Asia
+- Policy
+- Sustainable development
+title: AESCON takeaways
+type: post
+---
+On 22-25 September the first international conference on Asia-Europe Sustainable Connectivity ([AESCON](https://www.aescon.org/)) took place online with around 200 participants in total. The last page in that story (or chapter, perhaps), is the Key Takeaways Report, which is a summary of messages and themes that came out of the conference and is available [here](https://www.aescon.org/wp-content/uploads/2020/11/JRC122209_jrc122209_aescon_takeaways_final.pdf).
+
+Despite being the first conference of its kind, AESCON has a long history. Well, at least it certainly felt that way at some points!
+
+In 2017, when I was still working at the [JRC](https://ec.europa.eu/knowledge4policy/composite-indicators_en), we were asked by the European External Action Service to develop an indicator/data framework to measure "sustainable connectivity" (read: connections of all different types between countries, while supporting SDGs) between Asia and Europe. This resulted in the [ASEM Sustainable Connectivity Portal](https://composite-indicators.jrc.ec.europa.eu/asem-sustainable-connectivity/), launched in October 2018 at the ASEM Summit, of which more will be said in another post at some point.
+
+After building the Portal we were deliberating what the next steps should be to best support policy making in sustainable connectivity, and we hit on the idea of a scientific conference on the topic. The idea being to gather the latest research and data, build a network of researchers, and get policy-makers, diplomats and academics talking to one another.
+
+The conference was supposed to be in Feburary 2020 in Singapore, encouraging a balance between Asian and European researchers and diplomats. Of course, 2020 was the wrong year to do anything, and COVID stopped the conference in its tracks. The irony was not lost on us that we deliberately chose Singapore as the most connected country in Asia (according to our data), which left it initially quite vulnerable to the pandemic. We postponed to September but in the end, like most events, it was moved fully online, using the [Hopin](https://hopin.to/) platform.
+
+A virtual conference can never fully replace a physical event, because although you can watch all the presentations (glitches and technical problems excepted), a lot of the good networking and planning future collaborations happens over coffees and lunches. Moving to an online format also created a lot of extra work. Still, the event was a success and it may happen again in a year or two.
+
+Watch all the videos [here](https://www.aescon.org/downloads-videos/), and you can still submit relevant papers to our [special issue](https://www.aescon.org/call-for-abstracts/) in the Research in Globalization journal, edited by myself and Ana Neves.
+
