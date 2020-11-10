@@ -63,7 +63,7 @@ logo_width = "200px"
 description = "International data analysis"
 author = "William Becker"
 # Contact Information
-mobile = "0124857985320"
+#mobile = "0124857985320"
 email = "william.becker@bluefoxdata.eu"
 location = "Ispra, Italy"
 # contact form action
@@ -138,4 +138,9 @@ weight = 1
 name = "Blog"
 URL = "blog"
 weight = 5
+
+[[Languages.en.menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 7
 
