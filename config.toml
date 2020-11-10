@@ -144,3 +144,18 @@ name = "Contact"
 URL = "contact"
 weight = 7
 
+# footer menu
+[[Languages.en.menu.footer]]
+name = "LinkedIn"
+URL = "https://www.linkedin.com/feed/"
+weight = 1
+
+[[Languages.en.menu.footer]]
+name = "Researchgate"
+URL = "https://www.researchgate.net/profile/William_Becker4"
+weight = 2
+
+[[Languages.en.menu.footer]]
+name = "Google Scholar"
+URL = "https://scholar.google.com/citations?user=Vvu9K9YAAAAJ&hl=it"
+weight = 3
