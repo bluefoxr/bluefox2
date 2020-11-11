@@ -45,6 +45,10 @@ source("C:/Users/becke/OneDrive/Work/Consultancy/COINr/COINr/coin_assemble.R")
 COINlist <- coin_assemble(data, metad, framewk)
 source("C:/Users/becke/OneDrive/Work/Consultancy/COINr/COINr/coin_plotframework.R")
 coin_plotframework(COINlist)
+<<<<<<< HEAD
 ```
 
 The code will be up on my Github at some point.
+=======
+```
+>>>>>>> 1f764ba407ad884a4bb4117dccc857d9b83067e9
