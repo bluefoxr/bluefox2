@@ -129,10 +129,10 @@ name = "Home"
 URL = "/"
 weight = 1
 
-#[[Languages.en.menu.main]]
-#name = "Stuff"
-#URL = "stuff"
-#weight = 2
+[[Languages.en.menu.main]]
+name = "Projects"
+URL = "stuff"
+weight = 2
 
 [[Languages.en.menu.main]]
 name = "Blog"
