@@ -4,8 +4,7 @@ banner:
   bg_image : "images/thorsmork3.jpg"
   bg_overlay : true
   title : "International Data Analysis <br/> & Indicator Design"
-  content : "Data-driven indicator and composite indicator solutions for international policy-making <br/>
-  (WEBSITE UNDER CONSTRUCTION)"
+  content : "Data-driven indicator and composite indicator solutions for international policy-making"
   button:
     enable : false
     label : "Find out more"
