@@ -1,9 +1,9 @@
 ---
-bg_image: images/featue-bg.jpg
+bg_image: images/thorsmork3.jpg
 date: "2020-11-12"
 description:
 draft: false
-subtitle: This is a list of relevant projects that I have been involved in, and academic/non-academic publications. <br/><br/> **[Indicators](#CIs)** <br/> **[Academic papers](#Papers)** <br/> **[Reports and articles](#Reports)** <br/>
+subtitle: This is a list of relevant projects that I have been involved in, and academic/non-academic publications. More on [Researchgate](https://www.researchgate.net/profile/William_Becker4). <br/><br/> **[Indicators](#CIs)** <br/> **[Academic papers](#Papers)** <br/> **[Reports and articles](#Reports)** <br/>
 title: Projects and publications
 ---
 
