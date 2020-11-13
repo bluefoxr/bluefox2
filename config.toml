@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "/"
+baseURL = "https://www.bluefoxdata.eu"
 relativeURLs = true
 title = "BlueFox Data Consulting"
 theme = "airspace-hugo"
