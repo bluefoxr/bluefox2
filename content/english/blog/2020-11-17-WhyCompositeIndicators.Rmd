@@ -1,0 +1,38 @@
+---
+title: "Why use (composite) indicators?"
+author: "Will Becker"
+date: '2020-11-17'
+categories: Indicators
+description:
+draft: no
+tags:
+- Indicators
+
+image: images/blog/question.png
+type: post
+---
+
+Why use composite indicators? After all, as critics are eager to point out, they are full of subjective decisions and uncertainties, you're basically adding apples and oranges together, and no one is really sure what the result actually means. While some these criticisms are correct (many methodological choices go into constructing a composite indicator, and there are many uncertainties), the simple answer to the "why" is: they are the best tools we have for the job.
+
+To elaborate, let's look at the kind of concepts that composite indicators aim to measure. Here's a few:
+
+* [Human development](http://hdr.undp.org/en/content/human-development-index-hdi)
+* [Sustainable development](https://www.sdgindex.org/)
+* [Innovation](https://www.globalinnovationindex.org/Home)
+* [Financial secrecy](https://fsi.taxjustice.net/en/)
+* [University excellence](https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats)
+
+One thing that these concepts have in common is that the concepts are *multidimensional* and perhaps *difficult to define clearly*. Moreover, they *cannot be directly measured*. Nevertheless, it is exactly these kind of concepts that are of interest to policy makers, the media and even the general public.
+
+So, if we want to measure an elusive concept like innovation, where do we start? In the absence of an "innovatiion-measuring device" (InnovOmeTeR, 2020 Patent Pending), we have to examine realistic practical options. Unlike a physical system, we can't model it using known laws of physics. We're dealing with socioeconomic systems here, which are much harder to understand and predict^[Slightly off topic and possibly ranty, but if you have any doubt about that statement, consider this. In engineering and physical sciences (which is based on fairly well-understood physical laws, mostly), some fairly amazing things have been achieved. Microchips, space flight, the internet, huge buildings nearly 1km high, etc etc. In the meantime, we still haven't figured out an economic system that gets around basic human poverty, or political system that doesn't ultimately favour rich corporations and megalomaniacs. As Douglas Adams pointed out, people are a problem.].
+
+To measure the immeasurable, the obvious starting point is to review literature, talk to experts and do some hard thinking to assemble a picture of what "innovation" actually means. Shockingly, we find that multidimensional concepts can usually be broken down into specific dimensions, and these dimensions may have sub-dimensions, and so on.
+
+Having built this heirarchical map of the concept, we should arrive at (sub-)^n^dimensions which are small enough and manageable enough that we can actually measure them directly, or almost directly. This is where indicators come in. We assign indicators to each "nugget" of the concept, and then (if we want to), we reassemble all the nuggets to give an indication of the overall concept. Note the word "indication" rather than "measurement". It's no accident that indicators are called indicators - they indicate things rather than directly measure them.
+
+So in summary, we break down the concept, measure the chunks, and put it all back together again. This is a typical strategy to modelling, where complex systems are broken down into simpler manageable sub-systems.
+
+This is certainly *not* to say that composite indicators, or indicator frameworks, are perfect. There are many uncertainties, not least in how to define the concept, what indicators to use, how to weight and aggregate them and so on. But uncertainties are present in any model (it wouldn't be a model otherwise, it would be the real thing). And the point is here, that for all their drawbacks, indicators are the best tool for the job. Used carefully and responsibly, they can boldly inform policy and public debate where, err, no methodology has gone before!^[Sorry.]
+
+
+
