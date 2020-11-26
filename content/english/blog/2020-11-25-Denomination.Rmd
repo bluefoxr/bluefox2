@@ -15,6 +15,8 @@ Here's something that crops up all the time in indicators, but is discussed less
 
 *Denomination*, despite the way that it sounds, is not about practices found in the murkier corners of the internet. It refers to the operation of dividing one indicator by another. But why should we do that?
 
+<br/><font size="4"> **Size matters** </font>
+
 As anyone who has ever looked at a map will know, countries come in all different sizes. The problem is that many indicators, on their own, are strongly linked to the size of the country. That means that if we compare countries using these indicators directly, we will often get a ranking that has roughly the biggest countries at the top, and the smallest countries at the bottom.
 
 To take an example that is almost absurd, consider employment. If we want to compare the employment between different countries, one possibility would be to measure the number of people in employment. I downloaded the [OECD employment data for OECD countries](https://data.oecd.org/emp/employment-rate.htm), for Q4 2019 (the latest quarter for which all countries had reported data). Below is a sorted bar chart simply showing the number of employed people for each country (using Plotly).
@@ -75,7 +77,7 @@ The rankings here are completely different because the meanings of these two mea
 
 What is important is that the indicator is **suited to its purpose and context**. More often than not, in international indicators and scoreboards, the most suitable indicators are those that are denominated, so as to make meaningful comparisons between countries of different sizes.
 
-### Intensive vs. extensive
+<br/><font size="4"> **Intensive vs. extensive** </font>
 
 More precisely, indicators can be thought of as either *intensive* or *extensive* variables. Intensive variables are not (or only weakly) related to the size of the country, and allow "fair" comparisons between countries of different sizes. Extensive variables, on the contrary, are strongly related to the size of the country.
 
@@ -86,7 +88,7 @@ This distinction is well known in physics, for example. Mass is related to the s
 
 The summary here is that an **extensive** variable becomes an **intensive** variable when we divide it by a **denominator**.
 
-### Simple?
+<br/><font size="4"> **Simple?** </font>
 
 So far, this is fairly intuitive. It is obvious when to use population density rather than population, and when to use employment rate rather than the total number of employed people.
 
@@ -116,7 +118,7 @@ ggpairs(pub_data[-1])
 
 Now we can see that international publications are most strongly linked to GDP, with a highly-significant correlation of 0.77. This is no proof of causality (we can't conclude that more GDP *causes* more publications), but the two clearly have a strong link. Common sense also tells us that money is handy in generating more research. This might point to the fact that if we want to remove the "size effect" in this case, we should consider denominating by GDP rather than population.
 
-### Concluding
+<br/><font size="4"> **Concluding** </font>
 
 Denomination is a simple operation but it needs to be handled carefully. You need to understand what the final meaning of the indicator actually is, and ensure that it fits with what you are trying to measure. It's surprisingly easy to slip up. Correlations can help to point to available options. The most common denominators include population, GDP and land area, but there could be potentially many others.
 
