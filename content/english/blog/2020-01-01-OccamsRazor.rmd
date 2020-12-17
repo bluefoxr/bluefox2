@@ -5,7 +5,7 @@ categories:
 - Modelling
 date: "2020-12-12"
 description: And its many applications.
-draft: true
+draft: false
 image: images/blog/razor.png
 tags:
 - Modelling
