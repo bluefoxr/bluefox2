@@ -45,6 +45,8 @@ The [Regional Europe 2020 Index](https://doi.org/10.1016/j.indic.2020.100075), m
 
 ### 2020
 
+Razavi, S., Jakeman, A., Saltelli, A., […] Becker, W., […] (2020) The Future of Sensitivity Analysis: An Essential Discipline for Systems Modeling and Policy Support, Environmental Modelling & Software (in press) https://doi.org/10.1016/j.envsoft.2020.104954
+
 Becker, W., Norlén, H., Dijkstra, L., Athanasoglou, S., (2020) Wrapping up the Europe 2020 Strategy: a Multidimensional Indicator Analysis. Environmental and Sustainability Indicators, 8, 100075 https://doi.org/10.1016/j.indic.2020.100075
 
 Becker, W. (2020). Metafunctions for benchmarking in sensitivity analysis. Reliability Engineering & System Safety, 204, 107189. https://doi.org/10.1016/j.ress.2020.107189
