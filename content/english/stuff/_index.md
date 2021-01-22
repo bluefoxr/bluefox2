@@ -1,6 +1,6 @@
 ---
 bg_image: images/thorsmork3.jpg
-date: "2020-11-12"
+date: "2021-01-22"
 description:
 draft: false
 subtitle: This is a list of relevant projects that I have been involved in, and academic/non-academic publications. More on [Researchgate](https://www.researchgate.net/profile/William_Becker4). <br/><br/> **[Indicators](#CIs)** <br/> **[Academic papers](#Papers)** <br/> **[Reports and articles](#Reports)** <br/>-----------<br/> **[Full CV](CVacademicWB_web.pdf)** <br/>
