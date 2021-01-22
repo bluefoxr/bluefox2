@@ -9,11 +9,17 @@ title: Projects and publications
 
 ## Indicator development <a name="CIs"></a>
 
-### 2020
+### 2021 (ongoing)
+
+The [COINr R Package](https://github.com/bluefoxr/COINr), in collaboration with the European Commission's [Joint Research Centre](https://ec.europa.eu/jrc/en). COINr is an open-source comprehensive development and analysis environment for composite indicators in R.
 
 The Quality Infrastructure for Sustainable Development Index/Scoreboard for the [United Nations Industrial Development Organisation](https://www.unido.org/) (UNIDO). Lead developer.
 
 [The Global Innovation Index](https://www.globalinnovationindex.org/Home) for the [World Intellectual Property Organisation](https://www.wipo.int/portal/en/index.html) (WIPO). Technical consultant.
+
+The [Water-Energy-Food Nexus Index](https://www.wefnexusindex.org/). Technical consultant.
+
+### 2020
 
 The EU Bioeconomy Monitoring Framework for the European Commission's [Knowledge Centre for Bioeconomy](https://ec.europa.eu/knowledge4policy/bioeconomy_en). Technical consultant.
 
@@ -45,7 +51,7 @@ The [Regional Europe 2020 Index](https://doi.org/10.1016/j.indic.2020.100075), m
 
 ### 2020
 
-Razavi, S., Jakeman, A., Saltelli, A., […] Becker, W., […] (2020) The Future of Sensitivity Analysis: An Essential Discipline for Systems Modeling and Policy Support, Environmental Modelling & Software (in press) https://doi.org/10.1016/j.envsoft.2020.104954
+Razavi, S., Jakeman, A., Saltelli, A., […] Becker, W., […] (2020) The Future of Sensitivity Analysis: An Essential Discipline for Systems Modeling and Policy Support, Environmental Modelling & Software, 137, 104954 https://doi.org/10.1016/j.envsoft.2020.104954
 
 Becker, W., Norlén, H., Dijkstra, L., Athanasoglou, S., (2020) Wrapping up the Europe 2020 Strategy: a Multidimensional Indicator Analysis. Environmental and Sustainability Indicators, 8, 100075 https://doi.org/10.1016/j.indic.2020.100075
 
