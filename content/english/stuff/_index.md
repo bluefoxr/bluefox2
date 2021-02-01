@@ -3,7 +3,7 @@ bg_image: images/thorsmork3.jpg
 date: "2021-01-22"
 description:
 draft: false
-subtitle: This is a list of relevant projects that I have been involved in, and academic/non-academic publications. More on [Researchgate](https://www.researchgate.net/profile/William_Becker4). <br/><br/> **[Indicators](#CIs)** <br/> **[Academic papers](#Papers)** <br/> **[Reports and articles](#Reports)** <br/>-----------<br/> **[Full CV](CVacademicWB_web.pdf)** <br/>
+subtitle: This is a list of relevant projects that I have been involved in, and academic/non-academic publications. More on [Researchgate](https://www.researchgate.net/profile/William_Becker4). <br/><br/> **[Indicators](#CIs)** <br/> **[Academic papers](#Papers)** <br/> **[Book chapters](#Chapters)** <br/> **[Reports and articles](#Reports)** <br/>-----------<br/> **[Full CV](CVacademicWB_web.pdf)** <br/>
 title: Projects and publications
 ---
 
@@ -110,6 +110,19 @@ W. Becker, J. Rowson, J.E. Oakley, A. Yoxall, G. Manson, K. Worden Bayesian sens
 ### 2010
 
 Worden, K., W. Becker, M. Battipede, and C. Surace, Aspects of uncertainty analysis for large nonlinear computer models. Applied Mechanics and Materials, 2010. 24-25: p. 24-41. https://doi.org/10.4028/www.scientific.net/AMM.24-25.25
+
+
+## Book chapters <a name="Chapters"></a>
+
+Munda, G., Albrecht, D., Becker, W., Havari, E., Listorti, G., Ostlaender, N., ... & Saisana, M. (2020). The Use of Quantitative Methods in the Policy Cycle. In Science for Policy Handbook (pp. 206-222). Elsevier. https://doi.org/10.1016/B978-0-12-822596-7.00018-8 
+
+Saisana, M., Becker, W., Dominguez-Torreiro, M., The JRC Statistical Audit of the Global Talent Competitiveness Index 2017. In The Global Talent Competitiveness Index 2017: Talent and Technology, Chapter: 7, Publisher: INSEAD, Adecco, and HCLI, Editors: Bruno Lanvin, Paul Evans, pp.85-98
+
+Becker, W., Paruolo, P., Saisana, M., Saltelli, A., (2016) Weights and Importance in Composite Indicators: Mind the Gap. In Handbook of Uncertainty Quantification, Chapter: 4, Publisher: Springer International Publishing, Editors: Roger Ghanem, David Higdon, Houman Owhadi, pp.1-30
+
+Tarantola, S. and Becker, W., (2016) Simlab 4.0 for Global Sensitivity Analysis. In Handbook of Uncertainty Quantification, Springer International Publishing, Editors: Roger Ghanem, David Higdon, Houman Owhadi, pp.1-21
+
+Becker, W. and Saltelli, A. (2015) Design for sensitivity analysis. In Handbook of Design and Analysis of Experiments, Chapman & Hall/CRC, Editors: Angela Dean, Max Morris, John Stufken, Derek Bingham, pp.627 -673
 
 
 ## Selected reports and articles <a name="Reports"></a>
