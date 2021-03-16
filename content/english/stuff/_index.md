@@ -1,6 +1,6 @@
 ---
 bg_image: images/thorsmork3.jpg
-date: "2021-01-22"
+date: "2021-03-16"
 description:
 draft: false
 subtitle: This is a list of relevant projects that I have been involved in, and academic/non-academic publications. More on [Researchgate](https://www.researchgate.net/profile/William_Becker4). <br/><br/> **[Indicators](#CIs)** <br/> **[Academic papers](#Papers)** <br/> **[Book chapters](#Chapters)** <br/> **[Reports and articles](#Reports)** <br/>-----------<br/> **[Full CV](CVacademicWB_web.pdf)** <br/>
@@ -49,9 +49,13 @@ The [Regional Europe 2020 Index](https://doi.org/10.1016/j.indic.2020.100075), m
 
 ## Academic papers <a name="Papers"></a>
 
-### 2020
+### 2021
+
+Becker, W., Paruolo, P., Saltelli, A., (2021) Variable selection in regression models using global sensitivity analysis Journal of Time Series Econometrics https://doi.org/10.1515/jtse-2018-0025
 
 Razavi, S., Jakeman, A., Saltelli, A., […] Becker, W., […] (2020) The Future of Sensitivity Analysis: An Essential Discipline for Systems Modeling and Policy Support, Environmental Modelling & Software, 137, 104954 https://doi.org/10.1016/j.envsoft.2020.104954
+
+### 2020
 
 Becker, W., Norlén, H., Dijkstra, L., Athanasoglou, S., (2020) Wrapping up the Europe 2020 Strategy: a Multidimensional Indicator Analysis. Environmental and Sustainability Indicators, 8, 100075 https://doi.org/10.1016/j.indic.2020.100075
 
